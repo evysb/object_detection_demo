@@ -1,4 +1,8 @@
+# [How to train an object detection model easy for free](https://www.dlology.com/blog/how-to-train-an-object-detection-model-easy-for-free/) | DLology Blog
 
 
-Easy way: run [this Colab Notebook](https://colab.research.google.com/github/evysb/object_detection_demo/blob/master/colab_TUTORIAL_tensorflow-object-detection-training.ipynb).
+
+## How to Run
+
+Easy way: run colab_TUTORIAL_tensorflow_object_detection_training.ipynb on colab.
 
